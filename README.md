@@ -8,3 +8,4 @@ Environment variables
 Run locally:
 - npm install
 - npm run dev
+its is under development right now , sorry for trouble
